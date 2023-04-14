@@ -116,7 +116,7 @@ window.onload = function() {
       },
       "post": {
         "tags": [
-          "pet"
+          "pet" 
         ],
         "summary": "Add a new pet to the store",
         "description": "Add a new pet to the store",
